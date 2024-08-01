@@ -1,2 +1,3 @@
 # python
-Learning Python is joy
+Learning Python and openCV is joy
+Computer vision
